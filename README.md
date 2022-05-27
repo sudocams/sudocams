@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sudocams
-- 👀 I’m interested in coding ang hacking
+- 👀 I’m interested in hacking and only hacking
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on javascript(node)
+- 💞️ I’m looking to work with fellow hackers(node)
 - 📫 How to reach me ...
 
 <!---
